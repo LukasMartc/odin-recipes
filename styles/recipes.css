@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+a {
+    text-decoration: none;
+    color: rgb(236, 86, 86);
+    cursor: pointer;
+    font-size: 19px;
+    
+}
+
+a:hover {
+    color: rgb(227, 49, 49);
+    font-weight: 500;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(6, 143, 6);
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: rgb(236, 86, 86);
+}
+
+h4 {
+    color: rgb(6, 143, 6);
+}
